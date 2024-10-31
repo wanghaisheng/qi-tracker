@@ -1,5 +1,6 @@
 # 5 elements Tracker
 Wuxing
+![image](https://github.com/user-attachments/assets/cfd6e6ed-5d31-487e-877f-4126fbde23d8)
 
 2024-1028
 
