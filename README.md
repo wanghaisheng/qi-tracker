@@ -2,6 +2,15 @@
 Wuxing
 ![image](https://github.com/user-attachments/assets/cfd6e6ed-5d31-487e-877f-4126fbde23d8)
 
+
+Element	Season	Yin organ	Yang organ	Sense organ	Fluid
+wood	spring	liver	gallbladder	eyes	tears
+fire	summer	heart	small intestine	tongue	sweat
+earth	none	pancreas	stomach	mouth	saliva
+metal	fall	lung	large intestine	nose	mucus
+water	winter	kidney	urinary bladder	ears	urine
+
+
 2024-1028
 
 ## Description
