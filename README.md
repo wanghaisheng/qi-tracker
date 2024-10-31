@@ -4,9 +4,11 @@
 
 ## Description
 
-This is a baby tracker app that allows users to track their baby's feedings, diaper changes, and sleep. The app also allows users to track their baby's growth by adding their baby's height and weight.
 
-记录宝宝的喂养，尿布，睡眠，身高，体重等信息。
+记录你的症状变化
+
+量化你的五行元素
+
 
 ## Installation
 
