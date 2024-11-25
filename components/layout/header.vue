@@ -24,7 +24,7 @@ const iconList = [
   },
 ]
 const breadcrumbList = [
-  { name: 'event', meta: { title: '事件管理' } },
+  { name: 'event', meta: { title: '气的管理' } },
   { name: 'event-setting', meta: { title: '事件属性配置' } },
 ]
 const avatarOptions = [
