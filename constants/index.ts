@@ -1,5 +1,5 @@
-export const appName = 'Little Eleven\'s Life'
-export const appDescription = 'Little Eleven\'s Life'
+export const appName = '气的乐章'
+export const appDescription = '人活一口气,这是一款围绕着气的管理，包括心肝脾肺肾等等症状记录，自我护理的小工具'
 
 export const iconfontUrl = '//at.alicdn.com/t/c/font_178634_5lx1rpvocj2.js'
 
