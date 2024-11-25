@@ -150,7 +150,7 @@ const sleepTime = computed(() => {
 <template>
   <div bg="#f5f5f5" h-full w-full overflow-auto pb-13>
     <van-nav-bar
-      title="事件记录"
+      title="气的记录"
       class="mb-4"
     />
     <van-pull-refresh v-model="isRefreshing" class="overflow-visible" @refresh="onRefresh">
@@ -180,9 +180,9 @@ const sleepTime = computed(() => {
         </div>
         <div v-if="!isFetching && !activeEvent" class="mt-3 px-2 text-xs">
           <div v-if="activeDate === dayjs().format('YYYY-MM-DD')">
-            距离上次喂养: <span class="text-pink">{{ nearLastFeed }}</span> <br>
-            距离上次换尿不湿: <span class="text-pink">{{ nearLastDiaper }}</span> <br>
-            距离上次睡觉: <span class="text-pink">{{ nearLastSleep }}</span>
+            距离上次记录脾气: <span class="text-pink">{{ nearLastFeed }}</span> <br>
+            距离上次记录肝气: <span class="text-pink">{{ nearLastDiaper }}</span> <br>
+            距离上次记录心气: <span class="text-pink">{{ nearLastSleep }}</span>
           </div>
           <div>
             AD 吃了没: <span class="text-pink">{{ hasFeedAD ? '吃了' : '没吃' }}</span>
